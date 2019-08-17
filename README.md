@@ -19,4 +19,4 @@ The implementation code could be improved - a lot :)
 Refactor it and add the missing feature.
 
 # Background
-this kata has been extracted from my **JS Testing 2019** workshop. See https://www.codecentric.de/wissen/schulung/javascript-testing-2019/
+This kata has been extracted from my **JS Testing 2019** workshop (see https://www.codecentric.de/wissen/schulung/javascript-testing-2019/). It was designed for mob programming - hence the title.
