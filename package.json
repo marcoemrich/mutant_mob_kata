@@ -16,6 +16,8 @@
   "devDependencies": {
     "@babel/core": "^7.16.0",
     "@babel/preset-env": "^7.16.4",
+    "@stryker-mutator/core": "^5.5.0",
+    "@stryker-mutator/jest-runner": "^5.5.0",
     "@types/jest": "^27.0.3",
     "@types/ramda": "^0.27.52",
     "babel-jest": "^27.3.1",
